@@ -156,16 +156,7 @@ heart-disease-classifier/
 
 ---
 
-## Running Locally
 
-```bash
-git clone https://github.com/yourusername/heart-disease-classifier
-cd heart-disease-classifier
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
 
 ## Tech Stack
 
