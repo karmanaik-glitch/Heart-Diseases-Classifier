@@ -7,3 +7,4 @@ shap
 joblib
 streamlit
 ucimlrepo
+altair==4.2.2
