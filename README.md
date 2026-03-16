@@ -2,9 +2,7 @@
 
 A machine learning screening tool that predicts the presence of coronary artery disease using clinical and diagnostic features from the UCI Cleveland Heart Disease dataset.
 
-**Live demo:** [heart-disease-classifier.streamlit.app](https://heart-disease-classifier.streamlit.app) *(update with your URL)*
 
----
 
 ## Project Overview
 
@@ -181,13 +179,6 @@ streamlit run app.py
 
 ## Part of Healthcare AI/ML Learning Journey
 
-This is Project 2 of a structured healthcare AI/ML portfolio:
-
-| Project | Dataset | Status |
-|---|---|---|
-| 1 — Diabetes Risk Predictor | Pima Indians (768 patients) | ✅ Complete |
-| 2 — Heart Disease Classifier | UCI Cleveland (303 patients) | ✅ Complete |
-| 3 — Drug Adverse Event Analyser | FDA FAERS | 🔜 Next |
 
 ---
 
